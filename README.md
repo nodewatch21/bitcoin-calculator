@@ -30,7 +30,7 @@
 ### Windows
 
 Download the latest version:
-- [BitcoinRechner.exe](https://github.com/YOUR_USERNAME/bitcoin-rechner/releases/download/v1.0.0/BitcoinRechner.exe) (~45 MB)
+- [BitcoinRechner.exe](https://github.com/YOUR_USERNAME/bitcoin-calculator/releases/download/v1.0.0/BitcoinRechner.exe) (~45 MB)
 
 Double-click to run - no installation required!
 
@@ -38,8 +38,8 @@ Double-click to run - no installation required!
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/bitcoin-rechner.git
-cd bitcoin-rechner
+git clone https://github.com/YOUR_USERNAME/bitcoin-calculator.git
+cd bitcoin-calculator
 
 # Install dependencies
 pip install -r requirements.txt
@@ -180,6 +180,6 @@ This tool is for informational purposes only. Not financial advice. Always do yo
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/bitcoin-rechner?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/bitcoin-rechner?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/bitcoin-rechner/total)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/bitcoin-calculator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/bitcoin-calculator?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/bitcoin-calculator/total)
